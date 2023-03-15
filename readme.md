@@ -43,7 +43,7 @@ Once the above steps are complete, it's time to launch SwapiDraft!
 ## APIs
 
 Now that you are done with the pre-requisites, I'm assuming the application is starting up on your machine.
-It may take **~100 seconds** to start up due to data syncing and saving activities scheduled in the background.
+It may take a maximum of about **~100 seconds** to start up due to data syncing and saving activities scheduled in the background.
 
 Let's walk through the various APIs provided in v1.0.0. [Here](https://api.postman.com/collections/6937530-fee6fcdc-6106-47ec-b58a-49496b2b48fd?access_key=PMAT-01GVHZFE2ZZMF58CH796M59538) is a link to the postman collection of these APIs.
 
